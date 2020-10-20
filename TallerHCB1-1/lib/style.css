@@ -1,0 +1,35 @@
+/* Add your styles here */
+h1 {
+  color : rgb(0, 110, 206);
+  font-weight: bold;
+  text-align: center;
+}
+
+p.badBunny{
+  text-align: center;
+}
+
+h2 {
+  color : rgba(221, 2, 2, 0.747);
+  font-weight: lighter;
+}
+
+p{
+  color:black;
+}
+
+div{
+  background-color:white;
+}
+
+body{
+  background-color:white;
+}
+
+li{
+  color: black;
+}
+
+a{
+  color: black;
+}
